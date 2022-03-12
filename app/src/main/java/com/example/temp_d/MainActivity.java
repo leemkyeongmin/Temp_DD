@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     // 세번째 주석
     
     // 네번쨰 주석
-
+     /// 다섯번째
     /* EDT에 화씨를 입력 -> '변환'버튼 클릭 -> 섭씨로 변환
      리니어 레이아웃 3개, 컴포넌트 3개 (EDT, TXTV, BTN)
      리니어 레이아웃 큰 틀 1개(vertical), 그 안에 2개는 horizontal로 정렬 */
