@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
     // 주석 또 테스트
     
     // 세번째 주석
+    
+    // 네번쨰 주석
 
     /* EDT에 화씨를 입력 -> '변환'버튼 클릭 -> 섭씨로 변환
      리니어 레이아웃 3개, 컴포넌트 3개 (EDT, TXTV, BTN)
